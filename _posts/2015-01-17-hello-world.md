@@ -1,2 +1,12 @@
----layout: posttitle: "hello world"excerpt: "first trial"tags: [helloworld]link: http://frankwang33.github.io  share: true---## µÚÒ»Ò³£¬jekyllµÄ¿ªÊ¼Jekyll is a parsing engine bundled as a ruby gem used to build static websites from dynamic components such as templates, partials, liquid code, markdown, etc. Jekyll is known as "a simple, blog aware, static site generator".### ²©¿ÍÎÄÕÂ£º[ÓÃJekyll¹¹½¨»ùÓÚbootstrapÏµÍ³](http://blog.fens.me/jekyll-bootstarp-doc/)³ÌĞòÔ±»áĞ´³ÌĞòÊÇ»ù±¾¼¼ÄÜ£¬³ÌĞòÔ±»áĞ´ÎÄµµÊÇ¸ü¸ßµÄÄÜÁ¦¡£ÓÃ¼òµ¥µÄÍ¼ĞÎ±í´ï¼Ü¹¹£¬ÓÃÁ÷³©ÓïÑÔÃèÊöÒµÎñ£¬ÓÃ×¨ÒµµÄÎÄ±ÊĞ´³É±¨¸æ£¬¿´ËÆ¼òµ¥µÄÒªÇó£¬µ«¶ÔÓÚÆÕÍ¨µÄ³ÌĞòÔ±À´Ëµ¶¼ÊÇÒ»ÖÖÌôÕ½¡£ÓĞÊ±ºòÎÒÃÇ¾À½áµÄ²»ÊÇÔõÃ´×éÖ¯ÎÄ×Ö£¬¶øÊÇÔõÃ´ÅÅ°æ£¬ÓÃÄÄÖÖ×ÖÌå£¬¾ÓÖĞ»¹ÊÇ¿¿ÓÒ·ÅÖÃ£¿ÈçºÎÄÜ±£³Ö¶àÈË×«Ğ´ÎÄµµµÄÍ³Ò»·ç¸ñ£¿Jekyll¿ÉÒÔ°ïÖúÎÒÃÇ±ê×¼»¯ÎÄµµ½á¹¹£¬ÎÄµµÑùÊ½£¬ÎÄµµ¹ı³Ì¡£Ê£ÏÂ¾ÍÊÇÌáÉı×Ô¼ºµÄÖªÊ¶»ù´¡ÁË¡£
+---
+layout: post
+title: "hello world"
+excerpt: "first trial"
+tags: [helloworld]
+link: http://frankwang33.github.io  
+share: true
+---
+## ç¬¬ä¸€é¡µï¼Œjekyllçš„å¼€å§‹Jekyll is a parsing engine bundled as a ruby gem used to build static websites from dynamic components such as templates, partials, liquid code, markdown, etc. Jekyll is known as "a simple, blog aware, static site generator".
+
+### åšå®¢æ–‡ç« ï¼š[ç”¨Jekyllæ„å»ºåŸºäºbootstrapç³»ç»Ÿ](http://blog.fens.me/jekyll-bootstarp-doc/)ç¨‹åºå‘˜ä¼šå†™ç¨‹åºæ˜¯åŸºæœ¬æŠ€èƒ½ï¼Œç¨‹åºå‘˜ä¼šå†™æ–‡æ¡£æ˜¯æ›´é«˜çš„èƒ½åŠ›ã€‚ç”¨ç®€å•çš„å›¾å½¢è¡¨è¾¾æ¶æ„ï¼Œç”¨æµç•…è¯­è¨€æè¿°ä¸šåŠ¡ï¼Œç”¨ä¸“ä¸šçš„æ–‡ç¬”å†™æˆæŠ¥å‘Šï¼Œçœ‹ä¼¼ç®€å•çš„è¦æ±‚ï¼Œä½†å¯¹äºæ™®é€šçš„ç¨‹åºå‘˜æ¥è¯´éƒ½æ˜¯ä¸€ç§æŒ‘æˆ˜ã€‚æœ‰æ—¶å€™æˆ‘ä»¬çº ç»“çš„ä¸æ˜¯æ€ä¹ˆç»„ç»‡æ–‡å­—ï¼Œè€Œæ˜¯æ€ä¹ˆæ’ç‰ˆï¼Œç”¨å“ªç§å­—ä½“ï¼Œå±…ä¸­è¿˜æ˜¯é å³æ”¾ç½®ï¼Ÿå¦‚ä½•èƒ½ä¿æŒå¤šäººæ’°å†™æ–‡æ¡£çš„ç»Ÿä¸€é£æ ¼ï¼ŸJekyllå¯ä»¥å¸®åŠ©æˆ‘ä»¬æ ‡å‡†åŒ–æ–‡æ¡£ç»“æ„ï¼Œæ–‡æ¡£æ ·å¼ï¼Œæ–‡æ¡£è¿‡ç¨‹ã€‚å‰©ä¸‹å°±æ˜¯æå‡è‡ªå·±çš„çŸ¥è¯†åŸºç¡€äº†ã€‚
 
