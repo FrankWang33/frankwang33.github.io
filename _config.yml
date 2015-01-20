@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Yulong Wang's Blog
-locale:           ch_CHN
-url:   frankwang33.github.io           
+title:            Site Title
+locale:           en_US
+url:              
 
 
 # Jekyll configuration
@@ -26,7 +26,7 @@ kramdown:
 
 # Site owner
 owner:
-  name: Yulong Wang
+  name: Your Name
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email: 
@@ -34,13 +34,13 @@ owner:
   twitter: #username
   facebook: #username
   google:
-    plus: #frankwang33
+    plus: #username
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #
+  github: #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
